@@ -41,6 +41,3 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
-
-#不想上传的文件
-node_modules
